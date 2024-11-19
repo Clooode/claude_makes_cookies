@@ -1,0 +1,42 @@
+body {
+  font-family: "Roboto Slab Thin", sans-serif;
+  background-color: #fdfcdc;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header styles */
+h1 {
+  color : #0081a7;
+  font-family: "Aqua Grotesque", serif;
+}
+
+/* Header styles */
+h2 {
+  color : #00afb9;
+  font-family: "Aqua Grotesque", serif;
+}
+
+
+/* Header styles */
+h3 {
+  color : #7fd6cb;
+  font-family: "Aqua Grotesque", serif;
+}
+
+
+/* Links */
+a {
+  color: #fed9b7; /* Blue links */
+}
+
+a:hover {
+  color: #f07167; /* Tomato red on hover */
+}
+
+.sidebar {
+  background-color: #7fd6cb; /* Light background */
+  padding: 20px;
+  border-radius: 8px; /* Rounded corners */
+}
+
