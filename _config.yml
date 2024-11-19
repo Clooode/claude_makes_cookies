@@ -21,7 +21,7 @@
 title: Claude Makes Cookies
 email: youdontneedthis@email.com
 description: " This is a repository of all of Claude's recipes (succesful or not - but mostly successful)! New updates will be pushed weekly on Sunday nights."
-baseurl: "/claude_makes_cookies" # the subpath of your site, e.g. /blog
+baseurl: "/claude_makes_cookies/" # the subpath of your site, e.g. /blog
 url: "https://clooode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  clooode
