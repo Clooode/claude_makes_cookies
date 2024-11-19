@@ -25,7 +25,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-theme-lanyon"
 gem "kramdown-parser-gfm"
